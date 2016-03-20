@@ -4,7 +4,7 @@ This is a simple website using html
 
 ## Saylani Mass Training Programm
 
-![alt text](https://F:\Owais Zaki\Saylani Classes\Module 2\HTML class 20-3-16\Html3/1.jpg "Logo Title Text 1")
+![alt text](https://F:\Owais Zaki\Saylani Classes\Module 2\HTML class 20-3-16\Html3/1.jpg)
 
 Click on this [Awais Zaki on github](https://github.com/AwaisZaki) 
 
